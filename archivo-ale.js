@@ -1,5 +1,4 @@
-const x = 4;
-const y = 5;
-const z = 6;
+const x = 1
+const y = 9
 
-module.exports = { x, y, z };
+let z = 0
